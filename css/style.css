@@ -1,3 +1,18 @@
 body {
-  background-color: paleturquoise;
+  background-color: burlywood;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 19px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  color: beige;
 }

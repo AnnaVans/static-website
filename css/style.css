@@ -16,3 +16,10 @@ a {
   text-align: center;
   color: beige;
 }
+
+img {
+  max-width: 100%;
+  border-radius: 4px;
+  display: block;
+  margin: 30px auto;
+}
